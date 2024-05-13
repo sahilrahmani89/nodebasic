@@ -1,0 +1,1110 @@
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
+Question: Implement a function to perform a deep comparison of two objects, checking for equality of their nested properties.
+Input: { a: 1, b: { c: 2, d: { e: 3 } } }, { a: 1, b: { c: 2, d: { e: 3 } } }
+Expected Output: true
+Question: Create a function to perform matrix multiplication for two given matrices.
+Input: [[1, 2], [3, 4]], [[5, 6], [7, 8]]
+Expected Output: [[19, 22], [43, 50]]
+Question: Write a function to implement a binary search algorithm to find an element in a sorted array.
+Input: [1, 2, 3, 4, 5, 6, 7, 8, 9], 5
+Expected Output: true
+Question: Implement a function to generate a random permutation of elements in an array.
+Input: [1, 2, 3, 4, 5]
+Expected Output: [3, 5, 1, 4, 2] (a random permutation)
+Question: Create a function to implement the A* search algorithm for finding the shortest path between two points on a grid.
+Input: Grid with start and end points
+Expected Output: Shortest path between the two points
+Question: Write a function to implement a binary heap data structure and perform operations like insertion, deletion, and heapify.
+Input: Sequence of insertions and deletions
+Expected Output: Final heap structure after operations
+Question: Implement a function to solve the Tower of Hanoi puzzle with n disks.
+Input: Number of disks
+Expected Output: Sequence of moves to solve the puzzle
+Question: Create a function to implement the Vigenère cipher for encrypting and decrypting messages.
+Input: Plain text, encryption key
+Expected Output: Encrypted/Decrypted text
+Question: Write a function to implement a simple neural network for a given dataset using backpropagation.
+Input: Training data, network architecture
+Expected Output: Trained network parameters
+Question: Implement a function to calculate the shortest path in a weighted graph using Dijkstra's algorithm.
+Input: Weighted graph with start and end nodes
+Expected Output: Shortest path between the two nodes
